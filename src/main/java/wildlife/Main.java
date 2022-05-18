@@ -1,5 +1,15 @@
 package wildlife;
 
+import wildlife.domain.Animal;
+import wildlife.domain.Endangered;
+import wildlife.domain.Sighting;
+import spark.ModelAndView;
+import spark.template.handlebars.HandlebarsTemplateEngine;
+
+import java.util.List;
+
+
+import static spark.Spark.*;
 import java.util.HashMap;
 import java.util.Map;
 
