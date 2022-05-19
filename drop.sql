@@ -1,2 +1,2 @@
-DROP DATABASE Wildlife-tracker;
-DROP DATABASE Wildlife-test;
+DROP DATABASE wildlife_tracker;
+DROP DATABASE wildlife_tracker_test;
