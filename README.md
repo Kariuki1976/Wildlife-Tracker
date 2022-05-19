@@ -3,7 +3,7 @@
 **Project Description**
 The project covers postgres sql database and the concept of objects within object. It allows a user to record animals either endangered or not as well as their sightings and the details for rangers.
 
-![img](https://user-images.githubusercontent.com/97960990/168569805-83ab813c-84af-45b1-9063-f35833d1f11e.png)
+![img]()
 
 **Table of Content**
 
